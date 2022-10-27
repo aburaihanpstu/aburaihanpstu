@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raihan_6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raihan_6969" height="30" width="40" /></a>
+<a href="https://twitter.com/raihan_6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aburaihanpstu" height="30" width="40" /></a>
 <a href="https://fb.com/abu.raihan.pstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.raihan.pstu" height="30" width="40" /></a>
 </p>
 
